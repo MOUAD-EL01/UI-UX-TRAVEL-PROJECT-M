@@ -61,6 +61,7 @@ const Footer = () => {
         <div className="border bg-gray-20" />
         <p className="regular-14 w-full text-center text-gray-30">2023 Hilink | All rights reserved</p>
       </div>
+      <center>Made by Mouad Elattar</center>
     </footer>
   )
 }
