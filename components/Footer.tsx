@@ -59,9 +59,9 @@ const Footer = () => {
         </div>
 
         <div className="border bg-gray-20" />
-        <p className="regular-14 w-full text-center text-gray-30">2023 Hilink | All rights reserved</p>
+        <p className="regular-14 w-full text-center text-gray-30">2023  <center>Made by Mouad Elattar</center></p>
       </div>
-      <center>Made by Mouad Elattar</center>
+     
     </footer>
   )
 }
